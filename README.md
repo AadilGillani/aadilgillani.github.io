@@ -10,4 +10,6 @@ Hey there, I am Aadil Gillani a Alumni of The Lahore Alma and I am going to appl
 
 ### Support or Contact
 
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
+
 If you need any help or want want to contact me then [click here](https://t.me/aadilgillani) & I’ll help you sort it out.
