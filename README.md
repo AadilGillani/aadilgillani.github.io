@@ -3,9 +3,9 @@
 Hey there, I am Aadil Gillani a Alumni of The Lahore Alma and I am going to apply in BScs in FAST University in this Summer Fall When I’m not studying I debug MIUI System Apps (MIUI is a modified Android ROM) in order to remove bugs & Optimize user interface , you can find on Telegram.
 ## My Projects
 
-Co-owner of [@xiaomiuimods](t.me/xiaomiuimods)
-Assistant Content Manager at [@xiaomiui](t.me/xiaomiui) 
-Head Moderator of [MiuiHome Project](t.me/miuihome_xposed) 
+- Co-owner of [@xiaomiuimods](t.me/xiaomiuimods)
+- Assistant Content Manager at [@xiaomiui](t.me/xiaomiui) 
+- Head Moderator of [MiuiHome Project](t.me/miuihome_xposed) 
 
 
 ### Support or Contact
