@@ -1,6 +1,7 @@
-## You have landed on my About Me page so let me tell you a little about me. 
+## Hi there. 
 
-Hey there, I am Aadil Gillani a Alumni of The Lahore Alma and I am going to apply in BScs in FAST University in this Summer Fall.Also when I’m not studying I debug MIUI System Apps (MIUI is a modified Android ROM) in order to remove bugs & optimize UI & UX , you can find on Telegram.
+Hey there, I am Aadil Gillani a Alumni of The Lahore Alma and I am going to apply in BScs in FAST University in this Fall.Currently I am a internee at ActiveMedia. Also I debug MIUI (MIUI is a modified Android ROM) system apps in my free time in order to remove bugs & optimize UI & UX , along with that I also write articles time to time on xiaomiui , you can find on Telegram.
+
 ## My Projects
 
 - Co-owner of [@xiaomiuimods](t.me/xiaomiuimods)
